@@ -1,4 +1,4 @@
 [submodule "docs"]
 	path = docs
-	url = git@github.com:solareenlo/documentation.git
+	url = git://github.com:solareenlo/documentation.git
 	branch = japanese
