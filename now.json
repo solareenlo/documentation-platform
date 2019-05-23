@@ -1,7 +1,5 @@
 {
-    "version": 1,
+    "version": 2,
     "name": "iota-documentation",
-    "static": {
-        "trailingSlash": false
-    }
+    "builds": [{ "src": "package.json", "use": "@now/static-build" }]
 }
