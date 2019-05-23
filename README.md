@@ -1,5 +1,6 @@
 # IOTA Documentation
 
+fix
 This repository contains the web application which displays the documentation, the actual content is housed in its own repository [https://github.com/iotaledger/documentation.git](https://github.com/iotaledger/documentation.git)
 
 ## Supporting The Project
