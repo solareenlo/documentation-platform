@@ -15,6 +15,7 @@
         "build-index": "run-s build-projects build-search-index build-doc-assets",
         "start": "react-static start",
         "production": "react-static build",
+        "local": "react-static build --staging",
         "build": "run-s build-index production",
         "serve": "serve dist -p 3000",
         "lint": "eslint src/**/*.js",
