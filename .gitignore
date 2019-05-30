@@ -22,8 +22,8 @@ node_modules
 
 # /docs*
 /dist
-/src/config.dev.json
-/src/config.local.json
+# /src/config.dev.json
+# /src/config.local.json
 /src/config.training.json
 /src/config.staging.json
 /src/config.prod.json
