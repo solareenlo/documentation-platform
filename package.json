@@ -17,7 +17,7 @@
         "production": "react-static build",
         "local": "react-static build --staging",
         "build": "run-s build-index production",
-        "serve": "serve dist -p 3000",
+        "serve": "serve dist -p 3003",
         "lint": "eslint src/**/*.js",
         "now-build": "npm run production"
     },
